@@ -14,3 +14,13 @@
 ###Exercise 12
 
 * [pydoc](https://docs.python.org/2/library/pydoc.html)
+
+###Exercise 17
+
+* Module imports (Learning Python)
+    - Ch. 3 - Module imports and reloads
+    - Ch. 22, 23, 24, 25
+
+*  file closing
+    -  [Reuven's article](http://blog.lerner.co.il/dont-use-python-close-files-answer-depends/)
+* context managers
