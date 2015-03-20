@@ -1,5 +1,0 @@
-# reading files
-##    blocking/non-blocking modes
-##    with <file>
-##    readlines(), large files and generators
-##    closing files (explicit/implicit)
