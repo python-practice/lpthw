@@ -24,3 +24,8 @@
 *  file closing
     -  [Reuven's article](http://blog.lerner.co.il/dont-use-python-close-files-answer-depends/)
 * context managers
+
+###Exercise 20
+
+* File#seek, File#tell
+* operator +=
