@@ -1,9 +1,26 @@
 ## Common Resources
+
+### Infrastructure
+* [Ansible](https://github.com/ansible/ansible)
+* [scrapy](https://github.com/scrapy/scrapy)
+* [PySpider](https://github.com/binux/pyspider)
+* [Microservices Infrastructure](https://github.com/CiscoCloud/microservices-infrastructure)
+* [Open ERP](https://github.com/odoo/odoo)
+
+### Python
+* [Awesome Python](https://github.com/vinta/awesome-python)
+* [IPython](https://github.com/ipython/ipython)
+
 ### Markdown
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 ### Git
 * [git tags](http://git-scm.com/book/tr/v2/Git-Basics-Tagging)
+
+### Data Science / Machine Learning
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Scikit Learn](https://github.com/scikit-learn/scikit-learn)
 
 ## Exercises
 
